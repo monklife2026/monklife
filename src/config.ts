@@ -1,4 +1,4 @@
-import heroImage from './assets/hero-real.jpg';
+import heroImage from './assets/hero-real.JPG';
 
 export const SITE = {
   website: 'https://monklife.pages.dev', // Replace with your actual deployed URL
