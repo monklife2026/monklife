@@ -4,14 +4,14 @@ export const SITE = {
   website: 'https://monklife.pages.dev', // Replace with your actual deployed URL
   author: 'MonkLife',
   description: 'Explore the Monks\' daily life.',
-  title: 'Monk\'s Life',
+  title: 'Monks\' Life',
   ogImage: 'astropaper-og.jpg',
   lightAndDarkMode: true,
   postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
 
   // Lab Info
-  labName: 'Monk\'s Life',
+  labName: 'Monks\' Life',
   university: 'Canada',
   logo: '/assets/logo-real.svg', // Logo path
   avatar: '/assets/logo-real.svg', // Avatar for SEO/Schema
