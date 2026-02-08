@@ -21,8 +21,8 @@ export const ui = {
 
     // 'hero.title': 'Advancing Computer Vision & Deep Learning Research.', // Moved to config.ts
     // 'hero.subtitle': 'We are the Scholar-Lite Lab.', // Moved to config.ts
-    'hero.viewPubs': 'View Our Stories',
-    'hero.meetTeam': 'Meet the Team',
+    //'hero.viewPubs': 'View Our Stories',
+    //'hero.meetTeam': 'Meet the Team',
 
     'section.selectedPubs': 'Selected Stories',
     'section.viewAll': 'View all',

@@ -3,15 +3,15 @@ import heroImage from './assets/hero-real.JPG';
 export const SITE = {
   website: 'https://monklife.pages.dev', // Replace with your actual deployed URL
   author: 'MonkLife',
-  description: 'Explore the Gebis Monks\' daily life.',
-  title: 'Gebis Sangha',
+  description: 'Explore the Monks\' daily life.',
+  title: 'Monk\'s Life',
   ogImage: 'astropaper-og.jpg',
   lightAndDarkMode: true,
   postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
 
   // Lab Info
-  labName: 'Gebis Sangha',
+  labName: 'Monk\'s Life',
   university: 'Canada',
   logo: '/assets/logo-real.svg', // Logo path
   avatar: '/assets/logo-real.svg', // Avatar for SEO/Schema
@@ -19,9 +19,9 @@ export const SITE = {
 
   // Hero Section (Home Page) - Main content does not need to be translated for 8 languages by default
   hero: {
-    title: 'Explore the Gebis Monks\' daily life.',
-    subtitle: 'We are the Gebis Monks.',
-    action: 'View Out Stories', // Optional call to action text
+    title: 'Explore the Monks\' daily life.',
+    subtitle: 'A Simple Life, A Clear Mind',
+    //action: 'View Our Stories', // Optional call to action text
     image: heroImage, // Hero image path
   },
 
