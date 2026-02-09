@@ -94,6 +94,10 @@ The artists pose with the hand-built Snorlax, each face beaming with the satisfa
 
 <br><br>
 
+<div style="display: flex; justify-content: center; margin: 2rem 0;">
+<iframe src="https://www.youtube.com/embed/TquUZaYR7FA" width="800" height="450" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+</div>
+
 <p>
 It's been bitterly cold these days—
 Morning lows hit -18°C, and while afternoons reached -6°C, the wind cut straight through you.
@@ -119,4 +123,5 @@ it's a **New Year blessing we wish to share with everyone.**
 
 (Also quietly noting: If we do this again next year, we must prepare all warm gear—equipment truly impacts happiness and efficiency!)
 </p>
+
 </div>
