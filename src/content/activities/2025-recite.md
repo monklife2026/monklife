@@ -29,7 +29,7 @@ description: "Tsongkhapa's \"Essence of True Eloquence,\" Recited in Tibetan by 
 <div class="activity-content">
 
 
-<p>On November 19, 2025, a special prayer program was held in Dharamsala, India, where over 240 monks and nuns from GEBIS and GWBI gathered to recite Je Tsongkhapa's "Essence of True Eloquence" (Lekshe Nyingpo) in Tibetan.</p>
+<p>On November 19, 2025, a special prayer program was held at the hall in his residence in Dharamsala, HP, India, where over 240 monks and nuns from GEBIS and GWBI gathered to recite Je Tsongkhapa's "Essence of True Eloquence" (Lekshe Nyingpo) in Tibetan.</p>
 <br><br>
 
 ![Monks and nuns watching His Holiness arrive](../../assets/activity-recite/2025-11-19-Dharamsala-G01_SA10524.jpg)
@@ -43,12 +43,12 @@ description: "Tsongkhapa's \"Essence of True Eloquence,\" Recited in Tibetan by 
 <br><br>
 
 ![His Holiness participating in recitation](../../assets/activity-recite/2025-11-19-Dharamsala-G03_SA10600.jpg)
-<p>His Holiness joins the monks and nuns in reciting the “Essence of Truth.”</p>
+<p>His Holiness joins the monks and nuns in reciting the “Essence of True Eloquence.”</p>
 
 <br><br>
 
 ![Chanting the Essence of Truth](../../assets/activity-recite/2025-11-19-Dharamsala-G04FUJI9904.jpg)
-<p>Monks and nuns chanting the “Essence of Truth” in a solemn gathering.</p>
+<p>Monks and nuns chanting the “Essence of True Eloquence” in a solemn gathering.</p>
 
 <br><br>
 
@@ -58,7 +58,7 @@ description: "Tsongkhapa's \"Essence of True Eloquence,\" Recited in Tibetan by 
 <br><br>
 
 ![Recitation in progress](../../assets/activity-recite/2025-11-19-Dharamsala-G06_SA10649.jpg)
-<p>Monks and nuns chanting the “Essence of Truth” in a solemn gathering.</p>
+<p>Monks and nuns chanting the “Essence of True Eloquence” in a solemn gathering.</p>
 
 <br><br>
 

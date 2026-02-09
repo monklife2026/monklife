@@ -40,12 +40,12 @@ description: "At today's Food Box preparation site, each box carries a warm hope
 
 ![Abundant Gifts](../../assets/activity-wintersunshine/_AS20474.jpg)
 </div>
-<p>From fresh potatoes and crimson tomatoes to nutrient-rich canned goods and snacks, the diverse array reflects the convergence of public compassion. The gesture of monks personally delivering these items symbolizes Buddhism's warm consolation for society's impoverished, praying each recipient finds fullness of body and mind.</p>
+<p>From fresh potatoes and bright red tomatoes to nutritious canned goods and snacks, may every recipient find fulfillment in both body and mind.</p>
 
 <br><br>
 
 ![Joy in the Dharma](../../assets/activity-wintersunshine/_AS20471.jpg)
-<p>As preparations draw to a close, monks pose together behind a neatly arranged “Great Wall of Supplies.” Their genuine smiles radiate the joy of serving others (Service through Joy). This moment captures the power of compassion—when people unite, they build a solid shield to protect the vulnerable.</p>
+<p>As preparations drew to a close, the monks posed for a group photo behind the neatly arranged “Great Wall of Supplies.” This moment crystallized the power of compassion—when people unite as one, they can build a solid shield to protect the vulnerable.</p>
 
 </div>
 
