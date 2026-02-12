@@ -29,10 +29,10 @@ export const SITE = {
   nav: [
     { text: 'Home', link: '/', key: 'home' },
     /*{ text: 'Research', link: '/research', key: 'research' },*/
-    { text: 'Achievements', link: '/achievements', key: 'achievements' },
-    /*{ text: 'Team', link: '/team', key: 'team' },
+    { text: 'Stories', link: '/achievements', key: 'achievements' },
+    /*{ text: 'Team', link: '/team', key: 'team' },*/
     { text: 'Activities', link: '/activities', key: 'activities' },
-    { text: 'Join Us', link: '/join', key: 'join' },*/
+    /*{ text: 'Join Us', link: '/join', key: 'join' },*/
     { text: 'Search', link: '/search', key: 'search' },
   ],
 

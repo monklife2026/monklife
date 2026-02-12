@@ -8,7 +8,7 @@ export const ui = {
   en: {
     'nav.home': 'Home',
     'nav.research': 'Research',
-    'nav.achievements': 'Achievements',
+    'nav.achievements': 'Stories',
     'nav.publications': 'Publications',
     'nav.patents': 'Patents',
     'nav.team': 'Team',
