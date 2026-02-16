@@ -95,8 +95,9 @@ The artists pose with the hand-built Snorlax, each face beaming with the satisfa
 <br><br>
 
 <div style="display: flex; justify-content: center; margin: 2rem 0;">
-<iframe src="https://www.youtube.com/embed/TquUZaYR7FA" width="800" height="450" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H-JVZCPrffk?si=kJbGdgHi8Jlj3Iys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
 
 <p>
 It's been bitterly cold these days—

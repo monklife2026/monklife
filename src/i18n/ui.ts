@@ -98,13 +98,13 @@ export const ui = {
     'footer.powered': 'Powered by',
   },
   zh: {
-    'nav.home': '首页',
+    'nav.home': '首頁',
     'nav.research': '研究方向',
-    'nav.achievements': '科研成果',
+    'nav.achievements': '故事',
     'nav.publications': '学术论文',
     'nav.patents': '发明专利',
     'nav.team': '团队成员',
-    'nav.activities': '团队活动',
+    'nav.activities': '動態',
     'nav.join': '加入我们',
     'nav.news': '新闻动态',
     'nav.search': '站内搜索',
@@ -115,11 +115,11 @@ export const ui = {
     'hero.viewPubs': '查看论文',
     'hero.meetTeam': '认识团队',
 
-    'section.selectedPubs': '精选论文',
+    'section.selectedPubs': '精選故事',
     'section.viewAll': '查看全部',
-    'section.latestNews': '最新动态',
+    'section.latestNews': '最新動態',
 
-    'achievements.title': '科研成果',
+    'achievements.title': '故事',
     'achievements.subtitle': '汇集了我们发表的学术论文、知识产权和集体荣誉。',
     'achievements.papers': '发表论文',
     'achievements.books': '出版著作',
@@ -136,8 +136,8 @@ export const ui = {
     'achievements.regNumber': '登记号：',
     'achievements.date': '日期：',
 
-    'activities.title': '团队活动',
-    'activities.subtitle': '研讨会、学术讲座和团建活动。',
+    'activities.title': '動態',
+    'activities.subtitle': '僧眾們的的最新動態。',
 
     'research.subtitle': 'Our lab explores the frontiers of artificial intelligence, with a focus on computer vision and machine learning.',
     'research.learnMore': '了解更多',
