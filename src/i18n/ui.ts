@@ -45,8 +45,8 @@ export const ui = {
     'achievements.regNumber': 'Reg. Number:',
     'achievements.date': 'Date:',
 
-    'activities.title': 'Team Activities',
-    'activities.subtitle': 'Seminars, academic talks, and team building events.',
+    'activities.title': 'Activities',
+    'activities.subtitle': 'Monks' daily life in Canada.',
 
     'research.subtitle': 'Our lab explores the frontiers of artificial intelligence, with a focus on computer vision and machine learning.',
     'research.learnMore': 'Learn More',
