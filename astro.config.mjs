@@ -4,6 +4,8 @@ import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 import react from '@astrojs/react';
 
+import sitemap from '@astrojs/sitemap';
+
 // https://astro.build/config
 export default defineConfig({
   compressHTML: true,
@@ -18,8 +20,5 @@ export default defineConfig({
     }
   },
   site: 'https://monklife.pages.dev',
-  integrations: [sitemap()],
-
-
-  integrations: [react()]
+  integrations: [react(), sitemap()]
 });
