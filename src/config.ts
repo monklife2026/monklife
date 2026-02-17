@@ -43,8 +43,8 @@ export const SITE = {
 
   // i18n Config
   i18n: {
-    enabled: true,
-    defaultLocale: 'zh',
+    enabled: false,
+    defaultLocale: 'en',
   }
 };
 
@@ -68,4 +68,4 @@ export const SOCIALS = [
 ];
 
 // Default language configuration
-export const DEFAULT_LANG: 'zh' | 'en' | 'ja' | 'ko' | 'fr' | 'de' | 'es' | 'ru' = 'en'; 
+export const DEFAULT_LANG: 'en' = 'en'; 
