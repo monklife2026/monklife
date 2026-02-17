@@ -95,7 +95,7 @@ The artists pose with the hand-built Snorlax, each face beaming with the satisfa
 <br><br>
 
 <div style="display: flex; justify-content: center; margin: 2rem 0;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H-JVZCPrffk?si=kJbGdgHi8Jlj3Iys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/H-JVZCPrffk?si=kJbGdgHi8Jlj3Iys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 
