@@ -46,7 +46,7 @@ export const ui = {
     'achievements.date': 'Date:',
 
     'activities.title': 'Activities',
-    'activities.subtitle': 'Monks' daily life in Canada.',
+    'activities.subtitle': 'Monks\' daily life in Canada.',
 
     'research.subtitle': 'Our lab explores the frontiers of artificial intelligence, with a focus on computer vision and machine learning.',
     'research.learnMore': 'Learn More',
