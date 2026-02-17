@@ -17,6 +17,9 @@ export default defineConfig({
       assetsInlineLimit: 10240,
     }
   },
+  site: 'https://monklife.pages.dev',
+  integrations: [sitemap()],
+
 
   integrations: [react()]
 });
