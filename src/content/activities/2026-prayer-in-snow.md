@@ -24,23 +24,23 @@ description: "Following the tragic shooting in BC, monastics from GEBIS gathered
     border-radius: 12px;
     box-shadow: 0 10px 30px rgba(0,0,0,0.1);
   }
+  .activity-content iframe {
+    display: block;
+    margin: 2.5rem auto;
+  }
 </style>
 
 <div class="activity-content">
 
 
-<p>When tragedy struck, the GEBIS Sangha immediately set aside their scheduled activities and came together in prayer. They demonstrated the Buddhist values of peace, compassion, and fearlessness by offering the community immediate spiritual support and heartfelt blessings in its darkest hour.</p>
+<p>When tragedy struck, the GEBIS Sangha immediately set aside their scheduled Winter Joy in the Snow activities and came together in prayer. They demonstrated the Buddhist values of peace, compassion, and fearlessness by offering the community immediate spiritual support and heartfelt blessings in its darkest hour.</p>
 
 <br><br>
 
-
-![Walking the Path · Fearless in Faith](../../assets/activity-prayerinthesnow/201850.JPG)
-
-<br>
-
-![Fearless in Faith](../../assets/activity-prayerinthesnow/TEAZ0028.JPG)
-<br>
-
 ![United in Compassion](../../assets/activity-prayerinthesnow/TEAZ0034.JPG)
 
+![United in Compassion](../../assets/activity-prayerinthesnow/6348.JPG)
 
+![United in Compassion](../../assets/activity-prayerinthesnow/6349.JPG)
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/8TlPeYvJ9Vc?si=6caV8xLhrS-BcjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
