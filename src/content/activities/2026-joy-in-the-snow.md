@@ -46,12 +46,6 @@ shoveling and sculpting snow by hand to create a snowman world that invites peop
 
 <br><br>
 
-![Minions](../../assets/activity-joyinthesnow/Minions.jpeg)
-<p>
-Minions, wearing protective goggles, “officially begin work” after their final exam. Monks meticulously carve intricate details onto them.</p>
-
-<br><br>
-
 ![Gru](../../assets/activity-joyinthesnow/Gru.jpeg)
 <p>
 Gru sits elegantly with his signature expression, showcasing the extraordinary skill of snow sculpture craftsmanship. Using simple tools, the masters carve distinctive works of art in the frigid world.</p>
@@ -59,44 +53,23 @@ Gru sits elegantly with his signature expression, showcasing the extraordinary s
 
 <br><br>
 
+![Snorlax](../../assets/activity-joyinthesnow/Snorlax.jpeg)
+
 ![Carving Details](../../assets/activity-joyinthesnow/shared%20image.jpeg)
 <p>
 A monk meticulously shapes Snorlax's pointed ears, with swirling snowflakes bearing witness to the intricate craftsmanship. From rough ice blocks to vivid characters, every curve embodies the monks' unwavering focus and creativity in the bitter cold.</p>
 
-
 <br><br>
 
-![Peppa Pig](../../assets/activity-joyinthesnow/Peppa.jpeg)
-<p>Peppa Pig radiates warmth against the night sky, her rounded lines brimming with childlike charm. For neighborhood children, this is undoubtedly the most beloved surprise gift of this winter.</p>
+![Olaf](../../assets/activity-joyinthesnow/Olaf.jpg)
 
-<br><br>
-
-![Yoshi](../../assets/activity-joyinthesnow/Yoshi.jpeg)
-<p>
-Nintendo's classic character Yoshi joins the snowy party, his agile demeanor vividly brought to life, adding a vibrant spark to the chilly PEI.</p>
-
-<br><br>
-
-![Doraemon](../../assets/activity-joyinthesnow/Doraemon.jpeg)
-<p>
-The round and plump Doraemon waves his little round hands, as if greeting every visiting neighbor.
-
-
-<br><br>
-
-![Olaf](../../assets/activity-joyinthesnow/Olaf.jpeg)
 <p>
 Towering Olaf stands beside scaffolding, flashing his signature smile. The tree branches adorning his hair are a standout feature.
 </p>
 
 <br><br>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/P9HJuOQrCDc?si=Ce26hJqHuYlIKjlD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![Team Group Photo](../../assets/activity-joyinthesnow/teamgroup.png)
-<p>
-The artists pose with the hand-built Snorlax, each face beaming with the satisfaction of a job well done.
-</p>
-
-<br><br>
 
 <div style="display: flex; justify-content: center; margin: 2rem 0;">
 <iframe width="800" height="450" src="https://www.youtube.com/embed/H-JVZCPrffk?si=kJbGdgHi8Jlj3Iys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
