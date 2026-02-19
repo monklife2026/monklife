@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://monklife.pages.dev/sitemap.xml
