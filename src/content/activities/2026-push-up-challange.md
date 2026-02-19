@@ -1,5 +1,5 @@
 ---
-title: "Push-Up Challange"
+title: "Push-Up Challenge"
 date: 2026-02-16
 cover: "../../assets/activity-pushupchallange.jpg"
 description: "As part of the CMHA Push-Up Challenge 2026, a Mongolian monk completed 2,000 push-ups over three days."
