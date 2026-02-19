@@ -35,11 +35,6 @@ description: "Chinese New Year is just around the corner!"
 
 ![Fearless in Faith](../../assets/activity-newyeardec/DSC00866.JPG)
 
-<div style="width: 50%; margin: 0 auto;">
-
-![United in Compassion](../../assets/activity-newyeardec/DSC00876.JPG)
-</div>
-
 ![United in Compassion](../../assets/activity-newyeardec/DSC00879.JPG)
 
 ![United in Compassion](../../assets/activity-newyeardec/DSC00893.JPG)
