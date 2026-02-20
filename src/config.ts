@@ -3,7 +3,7 @@ import heroImage from './assets/hero-real.JPG';
 export const SITE = {
   website: 'https://monklife.pages.dev', // Replace with your actual deployed URL
   author: 'MonkLife',
-  description: 'Explore the Monks\' daily life.',
+  description: 'GEBIS Monks\' Real Life: How We Work with the PEI Community to Protect This Land.',
   title: 'Monks\' Life',
   ogImage: 'astropaper-og.jpg',
   lightAndDarkMode: true,
@@ -13,14 +13,14 @@ export const SITE = {
   // Lab Info
   labName: 'Monks\' Life',
   university: 'Canada',
-  logo: '/assets/logo-real.svg', // Logo path
-  avatar: '/assets/logo-real.svg', // Avatar for SEO/Schema
+  logo: '', // Logo path
+  avatar: '', // Avatar for SEO/Schema
   email: 'contact@lab.edu', // Contact email for Join Us page
 
   // Hero Section (Home Page) - Main content does not need to be translated for 8 languages by default
   hero: {
-    title: 'Explore the Monks\' daily life.',
-    subtitle: 'A Simple Life, A Clear Mind',
+    title: 'GEBIS Monks\' Real Life ',
+    subtitle: 'How We Work with the PEI Community to Protect This Land.',
     //action: 'View Our Stories', // Optional call to action text
     image: heroImage, // Hero image path
   },
