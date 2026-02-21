@@ -13,6 +13,10 @@ const stories = (await getCollection('stories'))
 const activities = (await getCollection('activities'))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
   .slice(0, 3);
+
+const videos = (await getCollection('videos'))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, 3);
 ---
 
 <Layout title="Home">
@@ -150,6 +154,62 @@ const activities = (await getCollection('activities'))
                   <div class="flex items-center gap-2 text-gray-500">
                     <Calendar className="w-4 h-4" />
                     <span>{story.data.date.toLocaleDateString('en-US', { timeZone: 'UTC' })}</span>
+                  </div>
+               </div>
+             </div>
+          </a>
+        )})}
+      </div>
+    </div>
+  </section>
+
+  <!-- Selected Videos -->
+  <section class="py-16 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex justify-between items-end mb-8">
+        <h2 class="text-3xl font-bold text-gray-900" data-i18n-key="section.selectedVideos">Selected Videos</h2>
+        <a href="/videos" class="text-blue-600 hover:text-blue-700 font-medium flex items-center gap-1 group">
+          <span data-i18n-key="section.viewAll">View all</span> <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+        </a>
+      </div>
+
+      <div class="grid gap-6 md:grid-cols-3">
+        {videos.map(video => {
+          const link = `/videos/${video.id.replace(/\.[^/.]+$/, "")}`;
+          return (
+          <a 
+            href={link}
+            class="bg-white rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition-all hover:-translate-y-1 overflow-hidden flex flex-col h-full group"
+          >
+             {video.data.cover && (
+               <div class="h-48 overflow-hidden border-b border-gray-100 bg-gray-50 relative group-hover:bg-black/5">
+                 <Image 
+                   src={video.data.cover} 
+                   alt={video.data.title}
+                   class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                   quality={60}
+                   format="webp"
+                   widths={[320, 480]}
+                   sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                 />
+                 <div class="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
+                    <div class="bg-black/50 rounded-full p-3 backdrop-blur-sm">
+                        <svg class="w-8 h-8 text-white ml-1" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+                    </div>
+                 </div>
+               </div>
+             )}
+             <div class="p-6 flex flex-col flex-grow">
+               <h3 class="text-lg font-semibold text-gray-900 mb-2 line-clamp-2 group-hover:text-blue-600 transition-colors">
+                 {video.data.title}
+               </h3>
+               <p class="text-gray-600 mb-4 text-sm line-clamp-3 flex-grow">
+                 {video.data.description}
+               </p>
+               <div class="flex items-center justify-between text-sm mt-auto gap-4">
+                  <div class="flex items-center gap-2 text-gray-500">
+                    <Calendar className="w-4 h-4" />
+                    <span>{video.data.date.toLocaleDateString('en-US', { timeZone: 'UTC' })}</span>
                   </div>
                </div>
              </div>

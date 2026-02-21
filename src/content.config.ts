@@ -157,6 +157,17 @@ const stories = defineCollection({
   }),
 });
 
+const videos = defineCollection({
+  loader: glob({ pattern: "**/*.{md,mdx}", base: "./src/content/videos" }),
+  schema: ({ image }) => z.object({
+    title: z.string(),
+    date: z.date(),
+    cover: image().optional(),
+    youtubeId: z.string().optional(),
+    description: z.string().optional(),
+  }),
+});
+
 export const collections = {
   publications,
   books,
@@ -168,4 +179,5 @@ export const collections = {
   honors,
   activities,
   stories,
+  videos,
 };

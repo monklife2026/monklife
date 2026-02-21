@@ -25,6 +25,7 @@ export const ui = {
     //'hero.meetTeam': 'Meet the Team',
 
     'section.selectedPubs': 'Selected Stories',
+    'section.selectedVideos': 'Selected Videos',
     'section.viewAll': 'View all',
     'section.latestNews': 'Latest News',
 
