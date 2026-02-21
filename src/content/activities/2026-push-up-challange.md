@@ -41,3 +41,34 @@ Small efforts, done steadily, can support something larger. Thank you for standi
 <br>
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/gHUNTS8F6ao?si=mLs2isIbCFUONrFR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br><br>
+🌟 From the Mongolian grasslands to The Push-Up Challenge 🌟
+ <br><br>
+I’m Gordon — DASHCHIREV AMARJARGAL.
+Every day, I do 130 push-ups. Some days are tough. But when I remember why I’m doing this, the weight feels lighter.
+ <br><br>
+This isn’t just about fitness.
+It’s about supporting those facing depression. It’s about strengthening body and mind. It’s about contributing, in my own small way, to world peace.
+ <br><br>
+My name DASHCHIREV means “auspicious rotation,” like a right-turning conch — a symbol of peace and positive influence. My great-grandmother chose it, hoping I would help spread goodness in the world. 
+AMARJARGAL, from my mother’s name, means “peace and happiness.”
+ <br><br>
+I grew up riding horses and wrestling on the vast Mongolian grasslands. Strength was part of life. But this challenge isn’t about muscles.
+ <br><br>
+True strength is the heart.
+True resilience is the mind.
+ <br><br>
+130 push-ups a day — not to show power,
+but to build peace from within.
+<br><br>
+
+![Push-Up Challenge](../../assets/activity-push-up-challenge/DASHCHIREV1.jpg)
+
+![Push-Up Challenge](../../assets/activity-push-up-challenge/DASHCHIREV2.jpg)
+
+
+![Push-Up Challenge](../../assets/activity-push-up-challenge/DASHCHIREV3.jpg)
+
+![Push-Up Challenge](../../assets/activity-push-up-challenge/DASHCHIREV4.jpg)
+
