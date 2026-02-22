@@ -84,7 +84,7 @@ description: "Tsongkhapa's \"Essence of True Eloquence,\" Recited in Tibetan by 
 <br><br>
 
 <div style="display: flex; justify-content: center; margin: 2rem 0;">
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FTheCentralTibetanAdministration%2Fvideos%2F1194518032640311%2F&show_text=false&width=560&t=0" width="800" height="560" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/d0MgQPkNZjQ?si=I8MZqwtZh0wMY5Vs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 </div>

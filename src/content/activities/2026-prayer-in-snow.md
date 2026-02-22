@@ -43,4 +43,6 @@ description: "Following the tragic shooting in BC, monastics from GEBIS gathered
 
 ![United in Compassion](../../assets/activity-prayerinthesnow/6349.jpg)
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/8TlPeYvJ9Vc?si=6caV8xLhrS-BcjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/lNLVnA1sL0I?si=atZwuv02_y_4ulA2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/INhOah3ji0U?si=2r7MTvK4eAn4yXJp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
