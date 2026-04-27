@@ -19,7 +19,7 @@ export const SITE = {
 
   // Hero Section (Home Page) - Main content does not need to be translated for 8 languages by default
   hero: {
-    title: 'explore Monks\' Real Life.',
+    title: 'Explore Monks\' Real Life.',
     subtitle: 'A simple life, A clear mind',
     //action: 'View Our Stories', // Optional call to action text
     image: heroImage, // Hero image path
